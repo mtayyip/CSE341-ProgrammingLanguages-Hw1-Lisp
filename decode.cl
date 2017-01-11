@@ -295,14 +295,14 @@
 ;Main Kismi
 
 ;Part1 icin gerekli kod
-;(print "PART1")
-;(Gen-Decoder-A *test-document*)
+(print "PART1")
+(Gen-Decoder-A *test-document*)
 
 
 ;--------------------------------------------ONEMLI---------------------------------------------------------
 ;Part2 1.Kisim icin gerekli kod 
-;(print "PART2 1.KISIM")
-;(Gen-Decoder-B-0 *test-document*)
+(print "PART2 1.KISIM")
+(Gen-Decoder-B-0 *test-document*)
 
 
 ;Part2 2.Kisim icin gerekli kod 
